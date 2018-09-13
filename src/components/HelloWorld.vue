@@ -3,7 +3,6 @@
     <h1>Value = {{ msg }}</h1>
     <my-v-text-field
       v-model="msg"
-      solo
       placeholder="PlaceHolder" />
     <input v-model="msg">
   </div>
