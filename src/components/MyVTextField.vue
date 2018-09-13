@@ -1,10 +1,3 @@
-# vue-transparent-wrapper
-
-It's a sample to how wrap a component like a v-text-field and pass all props to it.
-
-To simply wrap a component create a new one and use the mixin like this sample.
-
-```html
 <template>
   <div>
     <v-text-field
@@ -25,4 +18,3 @@ export default {
 
 <style scoped>
 </style>
-```
